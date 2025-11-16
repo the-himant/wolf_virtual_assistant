@@ -29,7 +29,7 @@ def wishme():
         speak("Good afternoon sir")
     else:
         speak("Good evening sir")
-    speak("I am Ghost, how may I help you")
+    speak("I am WOLF, how may I help you")
 
 # Function for take commands from commander(like you :-)😂
 def takeCommand():
