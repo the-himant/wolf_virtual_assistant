@@ -1,0 +1,7 @@
+SpeechRecognition 
+pyttsx3
+wikipedia 
+pyjokes
+os
+datetime
+webbrowser
