@@ -1,4 +1,4 @@
-Sure! Here's a professional and clear **`README.md`** for your AI assistant project:
+
 
 ````markdown
 # Wolf virtual Assistant
@@ -34,7 +34,7 @@ Wolf Assitant is a simple voice-controlled virtual assistant built in Python. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/the_himant/wolf_virtual_assistant.git
+   git clone https://github.com/the-himant/wolf_virtual_assistant.git
 ````
 
 2. Navigate to the project directory:
