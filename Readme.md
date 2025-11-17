@@ -1,9 +1,9 @@
 Sure! Here's a professional and clear **`README.md`** for your AI assistant project:
 
 ````markdown
-# Ghost AI Assistant
+# Wolf virtual Assistant
 
-Ghost is a simple voice-controlled virtual assistant built in Python. It can perform basic tasks like searching Wikipedia, opening websites, telling jokes, playing music, and providing date/time information.
+Wolf Assitant is a simple voice-controlled virtual assistant built in Python. It can perform basic tasks like searching Wikipedia, opening websites, telling jokes, playing music, and providing date/time information.
 
 ---
 
@@ -34,13 +34,13 @@ Ghost is a simple voice-controlled virtual assistant built in Python. It can per
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ghost-ai-assistant.git
+   git clone https://github.com/the_himant/wolf_virtual_assistant.git
 ````
 
 2. Navigate to the project directory:
 
    ```bash
-   cd ghost-ai-assistant
+   cd wolf_virtual_assistant
    ```
 3. Install the required libraries:
 
@@ -61,7 +61,7 @@ pip install SpeechRecognition pyttsx3 wikipedia pyjokes
 1. Run the main Python file:
 
    ```bash
-   python ghost_assistant.py
+   python wolf_virtual_assistant.py
    ```
 2. The assistant will greet you and start listening for commands.
 3. Speak one of the supported commands like:
@@ -105,10 +105,4 @@ Feel free to fork this project and add new features like:
 This project is open-source and free to use.
 
 ```
-
----
-
-If you want, I can also **create a `requirements.txt`** for this project so anyone can install dependencies with a single command. It will make publishing on GitHub much cleaner.  
-
-Do you want me to do that?
 ```
